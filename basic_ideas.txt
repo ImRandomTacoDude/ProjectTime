@@ -1,0 +1,26 @@
+< Basic Concept >
+	Time travel adventurer goes to dungeons via toilets in bar(maybe)
+	is about gathering loot and keeping loot(no rogue-lite), borderlands or destiny like
+	no classes, equip defines what and who you are
+	throws orb in fish bowl into toilet to travel to time and dungeon
+	singleplayer game, offline
+
+
+< Art >
+	pixel art style
+	upside down perspective
+	different dungeons types like steampunk, cyberpunk, old japan, classic medieval
+	skins for own character, armor changes look if wanted
+
+	< character design >
+		head is a fish bowl, with orb(with smiley face(customizable)) inside
+
+< Loot and Inventory >
+	2 weapon slots(can be either melee or ranged)
+	4 armor basic slots
+	1 shield slot
+	1 atrifact slot
+
+	loot only comes from chests inside a dungeon
+	leveling is done via loot, similar to destiny
+	every item, including legendary weapons(no others), has class attributes that buff if you wear enough of the same class attr.
